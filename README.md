@@ -43,6 +43,7 @@ yarn install
 3. Create a `.env.local` file in the root directory and add your Stability AI API key:
 ```env
 STABILITY_API_KEY=your_api_key_here
+API_HOST=https://api.stability.ai
 ```
 
 4. Start the development server:
